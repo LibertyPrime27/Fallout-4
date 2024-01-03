@@ -1,0 +1,27 @@
+const converted = {
+  "@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/mainRewrite.css')": true,
+  "@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/crtEffect.css')": true,
+  ":root": {
+    "--rgb-highlight": "74, 239, 152",
+    "--rgb-background": "0, 9, 0",
+    "--rgb-text": "74, 239, 152",
+    "--rgb-close-button": "212, 18, 39",
+    "--rgb-online-color": "57, 255, 20",
+    "--rgb-afk-color": "255, 255, 51",
+    "--rgb-dnd-color": "255, 0, 0",
+    "--rgb-streaming-color": "188, 19, 254",
+    "--transition-time": ".3s",
+    "--background-image": "unset",
+    "--background-position": "center",
+    "--background-size": "cover",
+    "--background-blur": "5px",
+    "--background-brightness": "100%",
+    "--title-image":
+      'url("https://commandcrafterhd.github.io/Fallout4TerminalTheme/svg/title.svg")',
+    "--title-image-repeat": "no-repeat",
+    "--title-image-size": "cover",
+    "--title-image-color": "var(--highlight)",
+    "--title-image-width": "240px",
+    "--title-image-height": "14px"
+  }
+}
